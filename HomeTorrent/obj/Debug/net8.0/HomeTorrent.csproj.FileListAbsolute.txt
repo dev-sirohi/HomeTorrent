@@ -1,0 +1,14 @@
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\bin\Debug\net8.0\HomeTorrent.exe
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\bin\Debug\net8.0\HomeTorrent.deps.json
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\bin\Debug\net8.0\HomeTorrent.runtimeconfig.json
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\bin\Debug\net8.0\HomeTorrent.dll
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\bin\Debug\net8.0\HomeTorrent.pdb
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\obj\Debug\net8.0\HomeTorrent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\obj\Debug\net8.0\HomeTorrent.AssemblyInfoInputs.cache
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\obj\Debug\net8.0\HomeTorrent.AssemblyInfo.cs
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\obj\Debug\net8.0\HomeTorrent.csproj.CoreCompileInputs.cache
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\obj\Debug\net8.0\HomeTorrent.dll
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\obj\Debug\net8.0\refint\HomeTorrent.dll
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\obj\Debug\net8.0\HomeTorrent.pdb
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\obj\Debug\net8.0\HomeTorrent.genruntimeconfig.cache
+C:\Users\devsi\source\repos\HomeTorrent\HomeTorrent\obj\Debug\net8.0\ref\HomeTorrent.dll
